@@ -1,5 +1,5 @@
 {
-  "name": "hello-tst",
+  "name": "@neetesshhr/react-app",
   "version": "1.0.0",
   "private": false,
   "dependencies": {
@@ -23,7 +23,6 @@
       "react-app/jest"
     ]
   },
-
   "browserslist": {
     "production": [
       ">0.2%",
