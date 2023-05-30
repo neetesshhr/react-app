@@ -1,7 +1,7 @@
 {
-  "name": "hello",
-  "version": "0.1.0",
-  "private": true,
+  "name": "hello-tst",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -23,6 +23,7 @@
       "react-app/jest"
     ]
   },
+
   "browserslist": {
     "production": [
       ">0.2%",
@@ -34,5 +35,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neetesshhr/react-app.git"
+  },
+  "author": "Nitesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neetesshhr/react-app/issues"
+  },
+  "homepage": "https://github.com/neetesshhr/react-app#readme"
 }
