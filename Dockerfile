@@ -10,5 +10,5 @@ EXPOSE 3000
 CMD [ "npm", "start" ]
 
 
-FROM nginx:1.19.0
+FROM nginx:1.31.0
 COPY build/ /usr/share/nginx/html
